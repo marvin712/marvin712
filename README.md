@@ -11,7 +11,7 @@
 
 ## 📂 Mis Repositorios y Funcionalidades
 
-<table>
+<table align="center">
   <tr>
     <th>📁 Funcionalidades Web</th>
     <th>📁 Frontend Completo</th>
