@@ -57,7 +57,7 @@
 <br>
   
 <br>
-<h3 align="center">Contactame:</h3>
+<h3 align="center">Contáctame:</h3>
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marvin-ord%C3%B3%C3%B1ez-626396222/)
