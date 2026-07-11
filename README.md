@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Soy Marvin Ordóñez con 3 años de experiencia</h1>
-<h3 align="center">Con un fuerte enfoque en la calidad y la usabilidad del desarrollo de sistemas. Me apasiona crear sitios web que sean atractivos, funcionales y fáciles de usar.</h3>
+<h3 align="center">Con un fuerte enfoque en la calidad y la usabilidad del desarrollo de sistemas. Me apasiona crear sistemas web que sean atractivos, funcionales y fáciles de usar.</h3>
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
 <br>
