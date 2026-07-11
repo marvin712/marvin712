@@ -8,31 +8,32 @@
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
 <br>
-## 🗂️ Mis Repositorios y Funcionalidades
 
+## 📂 Mis Repositorios y Funcionalidades
 
-<table align="center">
+<table>
   <tr>
-    <td><strong>📁 Funcionalidades Web</strong></td>
-    <td><strong>📁 Frontend Completo</strong></td>
-    <td><strong>📁 Backend & APIs</strong></td>
+    <th>📁 Funcionalidades Web</th>
+    <th>📁 Frontend Completo</th>
+    <th>📁 Backend & APIs</th>
   </tr>
   <tr>
     <td>
-      • <a href="https://github.com">Slider Interactivo</a><br>
-      • <a href="https://github.com">Ventana Modal</a><br>
-      • <a href="https://github.com">Prácticas JS</a>
+      • <a href="TU_ENLACE_AQUI">Slider Interactivo</a><br>
+      • <a href="TU_ENLACE_AQUI">Ventana Modal</a><br>
+      • <a href="TU_ENLACE_AQUI">Prácticas JS</a>
     </td>
     <td>
-      • <a href="https://github.com">Portafolio Web</a><br>
-      • <a href="#">Clon de Netflix</a>
+      • <a href="TU_ENLACE_AQUI">Portafolio Web</a><br>
+      • <a href="TU_ENLACE_AQUI">Clon de Netflix</a>
     </td>
     <td>
-      • <a href="#">API de Autenticación</a><br>
-      • <a href="#">Base de Datos Escolar</a>
+      • <a href="TU_ENLACE_AQUI">API de Autenticación</a><br>
+      • <a href="TU_ENLACE_AQUI">Base de Datos Escolar</a>
     </td>
   </tr>
 </table>
+
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
